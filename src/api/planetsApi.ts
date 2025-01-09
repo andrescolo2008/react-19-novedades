@@ -12,3 +12,5 @@ planetsApi.interceptors.request.use((config) => {
     }, 2000);
   });
 });
+
+
